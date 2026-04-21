@@ -1,4 +1,4 @@
-# HW4 — From Model to Production: End-to-End MLOps Pipeline
+# HW4 - From Model to Production: End-to-End MLOps Pipeline
 
 ## Nicholas Condos  
 **DATA 6545 — Data Science & MLOps**
